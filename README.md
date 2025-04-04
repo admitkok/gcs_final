@@ -2,8 +2,9 @@
 
 This project creates an automated pipeline that:
 1. Fetches Microsoft (MSFT) stock data using yfinance
-2. Processes the data into a CSV format
+2. Processes the data
 3. Uploads the processed data to Google Cloud Storage
+4. Runs every minute
 
 ## Prerequisites
 
